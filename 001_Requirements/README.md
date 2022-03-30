@@ -17,5 +17,7 @@ Get the input for Name, Mobile Number, Email.
 Validate :
 
 *Check whether the Name should contains alphabets only.
+
 *Check whether the Mobile number should contains numbers and exactly 10 digits.
+
 *Email must contains @, and should have the minimum length of 5.
