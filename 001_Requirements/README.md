@@ -1,4 +1,4 @@
-A mini project on Contact Management using c programming
+Project on Contact Management using c programming
 
 Functions:
 
