@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<string.h>
+#include<stdlib.h>
 struct contact
 {
 	char name[100];
@@ -117,7 +119,7 @@ void addition()
 	printf("Enter the Name\t");
 	scanf("%s",temp_name);
 	printf("Enter the Mobile Number\t");
-	scanf("%s",&temp_mobile);
+	scanf("%s",temp_mobile);
 	printf("Enter the email\t");
 	scanf("%s",temp_email);
 	validate();
