@@ -60,3 +60,37 @@ This is used by the user in day to day life where they need store and manage the
 
 How:
 This is fulfilled in very simple manner here as user need to enter his details like name other dtails of individual.
+
+SWOT analysis:
+
+
+Strengths
+.We can easily store information
+.search contacts
+.delete contacts
+
+Opportunities
+.sync all your accounts
+.can be used for refernece,analysis etc
+.Automation of process
+
+Weakness
+.Keep data up to date
+.Better user interface	
+
+Threats
+.security
+.storage issues
+
+
+HIGH LEVEL REQUIREMENTS:
+.windows os
+.linux os
+.visual studio code
+.code runner
+
+LOW LEVEL REQUIREMENTS:
+Processor: Minimum 1 GHz; Recommended 2GHz or more.
+Ethernet connection (LAN) OR a wireless adapter (Wi-Fi)
+Hard Drive: Minimum 32 GB; Recommended 64 GB or more.
+Memory (RAM): Minimum 1 GB; Recommended 4 GB or above.
