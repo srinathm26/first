@@ -46,6 +46,8 @@ Validate :
 
 4W's :
 
+
+
 Who:
 This is for everone who is needs to manage his contact.
 
@@ -64,7 +66,9 @@ This is fulfilled in very simple manner here as user need to enter his details l
 SWOT analysis:
 
 
+
 Strengths
+
 
 .We can easily store information
 
@@ -75,6 +79,7 @@ Strengths
 
 Opportunities
 
+
 .sync all your accounts
 
 .can be used for refernece,analysis etc
@@ -84,6 +89,7 @@ Opportunities
 
 Weakness
 
+
 .Keep data up to date
 
 .Better user interface	
@@ -91,12 +97,14 @@ Weakness
 
 Threats
 
+
 .security
 
 .storage issues
 
 
 HIGH LEVEL REQUIREMENTS:
+
 
 .windows os
 
@@ -108,6 +116,7 @@ HIGH LEVEL REQUIREMENTS:
 
 
 LOW LEVEL REQUIREMENTS:
+
 
 Processor: Minimum 1 GHz; Recommended 2GHz or more.
 
