@@ -67,7 +67,7 @@ SWOT analysis:
 
 
 
-Strengths
+STRENGTHS :
 
 
 .We can easily store information
@@ -77,7 +77,7 @@ Strengths
 .delete contacts
 
 
-Opportunities
+OPPORTUNITIES :
 
 
 .sync all your accounts
@@ -87,7 +87,7 @@ Opportunities
 .Automation of process
 
 
-Weakness
+WEAKNESS :
 
 
 .Keep data up to date
@@ -95,7 +95,7 @@ Weakness
 .Better user interface	
 
 
-Threats
+THREATS :
 
 
 .security
