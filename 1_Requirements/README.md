@@ -36,7 +36,7 @@ Validate :
 
 *Email must contains @, and should have the minimum length of 5.
 
-4W's :
+4W's and 1H :
 
 Who: This is for everone who is needs to manage his contact.
 
@@ -46,7 +46,7 @@ When: When you understand the importance of contact management and start to be m
 
 Where: This is used by the user in day to day life where they need store and manage their contact.
 
-How: This is fulfilled in very simple manner here as user need to enter his details like name other dtails of individual.
+How: This is fulfilled in very simple manner here as user need to enter his details like name other details of individual.
 
 SWOT analysis:
 
