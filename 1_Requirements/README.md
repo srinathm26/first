@@ -8,45 +8,33 @@ Features :
 
 Developed using the C language.
 
-The user can add new contacts with information such as name, phone number, and email.
-
-List all contacts: lists all the contacts stored in a file with their respective contact details.
-
-Search contacts: based on name and phone number
-
-Delete contacts: delete contacts from a file.
-
-Easy to operate and understandable.
 
 Functions:
 
-Addition : Can add contact details by including name,emailid an contact number.
+Balance checking : to check the balance.
 
-Deletion : Can delete the contact by specifying the contact name.
+Cash withdrawal : To withdraw cash for bank account.
 
-Contact Search : Search the required contact details by specifying contact name.
+Cash deposition : To deposit cash to required bank account.
 
-Displaying Contact Book : View all the contacts.
+check History : To view of transaction of the bank account.
 
-Validate :
+4W's and 1'H
+Who:
+The Program is useful to person who wants to check balance and who wants to withdraw or deposit cash
 
-*Check whether the Name should contains alphabets only.
+What:
+The project is about atm usage such as balancecheck,cash deposit,cash withdraw, and enquiry.
 
-*Check whether the Mobile number should contains numbers and exactly 10 digits.
+When:
+It is useful for banking whenever need of balancecheck,cash deposit,cash withdraw, and enquiry.
 
-*Email must contains @, and should have the minimum length of 5.
+Where:
+This project is useful for banking purpose
 
-4W's and 1H :
+How:
+It is used by the customers to balancecheck,cash deposit,cash withdraw, and enquiry.
 
-Who: This is for everone who is needs to manage his contact.
-
-What: To manage the contact details of indiual.
-
-When: When you understand the importance of contact management and start to be manage your contact.
-
-Where: This is used by the user in day to day life where they need store and manage their contact.
-
-How: This is fulfilled in very simple manner here as user need to enter his details like name other details of individual.
 
 SWOT analysis:
 
@@ -78,22 +66,25 @@ THREATS :
 
 .storage issues
 
-HIGH LEVEL REQUIREMENTS:
+# Detail requirements
+## High Level Requirements:
 
-.windows os
+| ID | Description | Status |
+| --- | --- | --- |
+| HR01 | User must be able to generate pin number | Implemented |
+| HR02 | User must be able to validate pin | Implemented |
+| HR03 | User must be able to view the banking options | Implemented |
+| HR04 | User must be able to access banking options| Implemented |
+| HR05 | User must be able to check balance| Implemented |
+| HR06 | User must be able to Deposit money| Implemented |
+| HR07 | User must be able to withdraw money| Implemented |
 
-.linux os
+##  Low level Requirements:
 
-.visual studio code
-
-.code runner
-
-LOW LEVEL REQUIREMENTS:
-
-Processor: Minimum 1 GHz; Recommended 2GHz or more.
-
-Ethernet connection (LAN) OR a wireless adapter (Wi-Fi)
-
-Hard Drive: Minimum 32 GB; Recommended 64 GB or more.
-
-Memory (RAM): Minimum 1 GB; Recommended 4 GB or above.
+| ID | Description | Status |
+| --- | --- | --- |
+| LR01 | User can access any banking option multiple times|Implemented |
+| LR02 | Verify wheater a trasaction is successful or not| Implemented |
+| LR03 | Display receipt of trasaction with req details | Future|
+| LR04 | Make ATM PIN secure | Future |
+| LR05 | Backup availability | Future |
