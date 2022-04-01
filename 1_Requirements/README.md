@@ -71,20 +71,16 @@ THREATS :
 
 | ID | Description | Status |
 | --- | --- | --- |
-| HR01 | User must be able to generate pin number | Implemented |
-| HR02 | User must be able to validate pin | Implemented |
-| HR03 | User must be able to view the banking options | Implemented |
-| HR04 | User must be able to access banking options| Implemented |
-| HR05 | User must be able to check balance| Implemented |
-| HR06 | User must be able to Deposit money| Implemented |
-| HR07 | User must be able to withdraw money| Implemented |
+| H01 | Capable of generate pin number | Implemented |
+| H02 | Capable to validate pin | Implemented |
+| H03 | Capable to check balance| Implemented |
+| H04 | Capable to Deposit money| Implemented |
+| H05 | Capable to withdraw money| Implemented |
 
 ##  Low level Requirements:
 
 | ID | Description | Status |
 | --- | --- | --- |
-| LR01 | User can access any banking option multiple times|Implemented |
-| LR02 | Verify wheater a trasaction is successful or not| Implemented |
-| LR03 | Display receipt of trasaction with req details | Future|
-| LR04 | Make ATM PIN secure | Future |
-| LR05 | Backup availability | Future |
+| L01 | Capable of accessing any banking option multiple times|Implemented |
+| L02 | Verify wheater a proper input given by the user| Implemented |
+
