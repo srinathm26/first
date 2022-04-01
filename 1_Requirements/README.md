@@ -1,19 +1,20 @@
-## ATM MINI PROJECT
+# ATM 
 
 # Requirements
 
 
 ## INTRODUCTION
 
-Contact Management System is a simple project that is developed in the C platform. The main aim of this project is to manage contact details. It’s close to the cell phone contact manager. Moreover, it helps to add, delete, search and view all the contact details which we have stored in a folder.
+An Automated Teller Machine, better known as an ATM, is a specialized computer that makes it convenient for bank account holders to manage their money. It allows them to check their account balances, withdraw or deposit money, transfer money from one account to another, print a statement of account transactions, and even purchase stamps. By inserting an ATM or debit card in the machine and entering a Personal Identification Number (PIN), one can access the services above 24 hours a day, 7 days a week.
+
 
 ## FEATURES :
 
 Developed using the C language.
 
-The Program will do some tasks below to operate the ATM Machine: 
+This Program will do some tasks below to operate the ATM Machine: 
 
-The C Program can display the ATM Transaction. 
+User can deposit Cash from ATM Machine.
 
 It has a PIN verification system to login to ATM Machine. 
 
@@ -21,9 +22,7 @@ Users can Check the balance from this ATM Machine Project.
 
 User can withdraw Cash from ATM Machine. 
 
-User can deposit Cash from ATM Machine. 
-
-
+ 
 
 ## FUNCTIONS :
 
@@ -36,13 +35,12 @@ Cash deposition : To deposit cash to required bank account.
 check History : To view of transaction of the bank account.
 
 ## Research: 
+ 
 
-It shows the research design, the study area, population, the sampling design, data collection methods, instruments and analytical technique. 
-
-## 4W'S AND 1'H:
+# 4W'S AND 1'H:
 
 ## WHO
-The Program is useful to person who wants to check balance and who wants to withdraw or deposit cash
+This Program is useful to person who wants to check balance and who wants to withdraw or deposit cash
 
 ## WHAT
 The project is about atm usage such as balancecheck,cash deposit,cash withdraw, and enquiry.
