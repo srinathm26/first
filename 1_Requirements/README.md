@@ -1,15 +1,31 @@
-Contact-Management-System
+## ATM MINI PROJECT
 
-Introduction :
+# Requirements
+
+
+## INTRODUCTION
 
 Contact Management System is a simple project that is developed in the C platform. The main aim of this project is to manage contact details. It’s close to the cell phone contact manager. Moreover, it helps to add, delete, search and view all the contact details which we have stored in a folder.
 
-Features :
+## FEATURES :
 
 Developed using the C language.
 
+The Program will do some tasks below to operate the ATM Machine: 
 
-Functions:
+The C Program can display the ATM Transaction. 
+
+It has a PIN verification system to login to ATM Machine. 
+
+Users can Check the balance from this ATM Machine Project. 
+
+User can withdraw Cash from ATM Machine. 
+
+User can deposit Cash from ATM Machine. 
+
+
+
+## FUNCTIONS :
 
 Balance checking : to check the balance.
 
@@ -19,54 +35,57 @@ Cash deposition : To deposit cash to required bank account.
 
 check History : To view of transaction of the bank account.
 
-4W's and 1'H
-Who:
+## Research: 
+
+It shows the research design, the study area, population, the sampling design, data collection methods, instruments and analytical technique. 
+
+## 4W'S AND 1'H:
+
+## WHO
 The Program is useful to person who wants to check balance and who wants to withdraw or deposit cash
 
-What:
+## WHAT
 The project is about atm usage such as balancecheck,cash deposit,cash withdraw, and enquiry.
 
-When:
+## WHEN
 It is useful for banking whenever need of balancecheck,cash deposit,cash withdraw, and enquiry.
 
-Where:
+## WHERE
 This project is useful for banking purpose
 
-How:
+## HOW
 It is used by the customers to balancecheck,cash deposit,cash withdraw, and enquiry.
 
 
-SWOT analysis:
+# SWOT analysis:
 
-STRENGTHS :
+## STRENGTHS :
 
-.We can easily store information
+.High performance 
 
-.search contacts
+.Easy access to the user.
 
-.delete contacts
+.Reliable access to database
 
-OPPORTUNITIES :
 
-.sync all your accounts
+## OPPORTUNITIES :
 
-.can be used for refernece,analysis etc
+.Better improment in infrastructure of library
 
-.Automation of process
+.Great scope
 
-WEAKNESS :
+## WEAKNESS :
 
 .Keep data up to date
 
 .Better user interface
 
-THREATS :
+## THREATS :
 
-.security
+.security problems
 
-.storage issues
+.Stored data loss.
 
-# Detail requirements
 ## High Level Requirements:
 
 | ID | Description | Status |
