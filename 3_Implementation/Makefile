@@ -64,7 +64,7 @@ test:$(BUILD)
 
 # Remove all the built files, invoke by `make clean`
 clean:
-	$(RM) $(BUILD) $(DOCUMENTATION_OUTPUT) contacts.bin
+	$(RM) $(BUILD) $(DOCUMENTATION_OUTPUT) balance.bin
 
 # Create new build folder if not present
 $(BUILD):
