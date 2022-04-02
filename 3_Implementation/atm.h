@@ -8,7 +8,7 @@ typedef struct node {
     struct node* link;
 } node;
 
-void withdrawMoney(node **, int *);
+void Withdraw(node **, int *);
 void Updateamount(node **, char *);
 void Modifyhistory(node **);
 void History(node **);
