@@ -1,11 +1,11 @@
-#include "header.h"
+#include "atm.h"
 
 int main(void) {
     int value1, value2, pin = 0, balance = 0;
     node *head = NULL;
     while (1) {
         printf("\nATM System");
-        printf("\nSelect a valid option");
+        printf("\nSelect a valid option\n");
         printf("1. Generate PIN\n2. Use ATM\n3. Exit\n");
         scanf("%d", &value1);
 
